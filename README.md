@@ -2,7 +2,7 @@
 An ArcPy script used to automate zonal statistics calculations for multiple raster files
 
 ## Tutorial
-<a href="https://docs.google.com/presentation/d/1-ZbuHjjaAfntVAjgFVXOMoflJz-GJLPOgdreMDI8mX0/edit?usp=sharing" target="_blank">Google Slides</a>
+Link to <a href="https://docs.google.com/presentation/d/1-ZbuHjjaAfntVAjgFVXOMoflJz-GJLPOgdreMDI8mX0/edit?usp=sharing" target="_blank">Google Slides</a>
 
 ![Zonal Stats Calculator Screenshot](https://bstefansen.github.io/Portfolio/images/zonestat.JPG)
 
@@ -12,9 +12,6 @@ The purpose of this project was to write a program that automates “Zonal Stati
 ## Features
 - Users can input multiple raster files
 - Users can choose the statistic they wish to calculate
-
-## Demo
-Link to the <a target="_blank" href="https://stefansen-graphql-library.herokuapp.com/">Production Build</a>
 
 ## License
 This project is licensed under the MIT License
